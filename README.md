@@ -1,2 +1,2 @@
 # coding-challenge-00
-coding challenge 00
+Coding challenge 00
