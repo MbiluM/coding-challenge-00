@@ -1,2 +1,2 @@
 # Coding-challenge-00
-Mbilu Mabilu Coding 1st project
+Mbilu Mabilu Codeing 1st project
